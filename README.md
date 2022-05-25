@@ -1,7 +1,7 @@
 # django_web_test
 
 
-#in django_project_test add:
+#in django_project_test/settings.py add:
 
 DATABASES = {
 
@@ -21,4 +21,7 @@ DATABASES = {
     
 }
 
-#=================================================#
+#======================================================#
+in line ALLOWED HOSTS enter the IP ADDRESS ['0.0.0.0']
+#======================================================#
+
